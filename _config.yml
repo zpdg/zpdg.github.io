@@ -78,7 +78,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "快乐才是真理"
+sidebar-about-description: "一个学习者"
 sidebar-avatar: /img/zima.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
