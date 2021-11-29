@@ -1,7 +1,7 @@
 # Site settings
 title: Patrick Blog
 SEOTitle: 鹏少的博客 | Patrick Blog
-header-img: img/home-bg.jpg
+header-img: 
 email: p-zhang17@mails.tsinghua.edu.cn
 description: "个人博客，分享所思所想"
 keyword: "物理，编程，台球，骑行，写作，钢琴"
@@ -79,7 +79,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一个学习者"
+sidebar-about-description: "2+2=4"
 sidebar-avatar: /img/zima.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -101,38 +101,14 @@ page-mathjax: false
 
 
 
-## Friends
-# friends: [
-#     {
-#     #     title: "Su",
-#     #     href: "http://su.gallery/"
-#     # },{
-#         title: "乱序",
-#         href: "http://mida.re/"
-#     },{
-#         title: "Sherry Wu",
-#         href: "https://xuechundesign.github.io"
-#     },{
-#         title: "Luke 的自留地",
-#         href: "http://hmqk1995.github.io"
-#     },{
-#         title: "Ebn's Blog",
-#         href: "http://ebnbin.com/"
-#     },{
-#         title: "SmdCn's Blog",
-#         href: "http://blog.smdcn.net"
-#     },{
-#         title: "JiyinYiyong",
-#         href: "http://tiye.me/"
-#     },{
-#         title: "David's Game",
-#         href: "https://www.ruoyaowu.com/"
-#     },{
-#         title: "DHong Say",
-#         href: "http://dhong.co"
-#     },{
-#         title: "尹峰以为",
-#         href: "http://ingf.github.io/"
-#     }
-# ]
+# Friends
+friends: [
+     {
+         title: "玄天林宇",
+         href: "http://www.xuantianlinyu.com.cn/"
+     },{
+         title: "mathpron",
+         href: "https://mathpron.github.io/"
+     }
+]
 
