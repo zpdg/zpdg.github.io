@@ -2,9 +2,9 @@
 title: Patrick Blog
 SEOTitle: 鹏少的博客 | Patrick Blog
 header-img: 
-email: p-zhang17@mails.tsinghua.edu.cn
-description: "个人博客，分享所思所想"
-keyword: "物理，编程，台球，骑行，写作，钢琴"
+email: zhangpen21@mails.tsinghua.edu.cn
+description: "鹏少个人博客"
+keyword: "数学、物理、统计、编程、台球、科幻、骑行"
 url: "https://zpdg.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -79,7 +79,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "2+2=4"
+sidebar-about-description: "Hello World!"
 sidebar-avatar: /img/zima.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -111,4 +111,3 @@ friends: [
          href: "https://mathpron.github.io/"
      }
 ]
-
