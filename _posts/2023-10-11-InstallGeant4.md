@@ -163,4 +163,3 @@ Scanning dependencies of target exampleB1
 ```
 看到下图就说明安装已经顺利完成啦：
 ![](/img/inPosts/image-20200720214700103.png)
-```
